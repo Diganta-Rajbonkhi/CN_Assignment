@@ -16,4 +16,4 @@ client and server side.
 Learning Outcomes:
 1. Use of TCP for file transfer.
 
-![SCREENSHOT](assgnment9.png)
+![SCREENSHOT](assgnmnt9.png)
