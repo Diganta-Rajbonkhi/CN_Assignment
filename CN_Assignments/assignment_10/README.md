@@ -15,4 +15,4 @@ Learning Outcomes:
 
 OUTPUT SCREENSHOT
 
-![SCREENSHOT](assignmen10.png)
+![SCREENSHOT](assgnmen10.png)
