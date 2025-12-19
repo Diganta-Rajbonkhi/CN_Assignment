@@ -12,4 +12,4 @@ Learning Outcomes:
 
 OUTPUT SCREENSHOT
 
-![SCREENSHOT]()
+![SCREENSHOT](Screenshot%20from%202025-12-08%2016-22-37.png)
