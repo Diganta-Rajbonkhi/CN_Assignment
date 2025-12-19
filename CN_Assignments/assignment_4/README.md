@@ -14,4 +14,6 @@ Steps/ Hints: (if any)
 3. Ping any two hosts,
 4. Analyze.
 
+OUTPUT SCREENSHOT
 
+![SCREENSHOT](Assign4.png)
