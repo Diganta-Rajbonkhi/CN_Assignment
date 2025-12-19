@@ -23,4 +23,4 @@ Learning Outcomes:
 1. Multiple client’s communication via server socket can be learned.
 
 
-![SCREENSHOT](Ass@.png)
+![SCREENSHOT](Ass2.png)
