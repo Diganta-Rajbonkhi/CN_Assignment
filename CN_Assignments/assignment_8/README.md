@@ -24,4 +24,4 @@ Learning Outcomes:
 1. Understanding multi-threading for TCP sockets
 
 OUTPUT SCREENSHOT
-![SCREENSHOT](Screenshot from 2025-12-03 19-10-21.png)
+![SCREENSHOT]([Screenshot from 2025-12-03 19-10-21.png](Screenshot%20from%202025-12-03%2019-10-21.png))
