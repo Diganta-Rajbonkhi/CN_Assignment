@@ -127,22 +127,10 @@ Customer List:
 
 ## 🖼️ Output Screenshot
 
-> Add your program output screenshot here
-> (Take a screenshot while running client & server)
 
-```
-📁 Ass2.png
-```
 
-**Example (Markdown syntax):**
-
-```md
 ![Program Output](Ass2.png)
-```
 
-⬆️ Paste this line in the README after adding `output.png` to the folder.
-
----
 
 ## ✨ Features
 
